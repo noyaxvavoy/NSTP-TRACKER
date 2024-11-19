@@ -19,13 +19,13 @@ NSTP TRACKER
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/icons/Homepage.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/icons/Signup.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/icons/Login (2).jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/icons/tabscreen.jpg">  
